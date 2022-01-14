@@ -1,2 +1,3 @@
 # Hello-world
-creating a program with out of HelloWorld
+creating a program with output of HelloWorld
+and my name
